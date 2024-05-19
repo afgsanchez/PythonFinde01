@@ -1,0 +1,4 @@
+LINEA 1 - Esto es solo un fichero de prueba.
+LINEA 2 - No tiene ningun valor
+LINEA 3 - Es solo para probar lectura y escritura en archivos con Python.
+LINEA 4 - Esta linea esta añadida desde codigo
