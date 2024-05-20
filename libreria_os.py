@@ -40,4 +40,12 @@ except:
 print(os.listdir())
 print()
 
+# Funcion rename, renombra un fichero
+try:
+    print("rename - Renombramos el archivo txtdeprueba.txt a pruebaderenombre.py", os.rename("txtdeprueba.txt", "pruebaderenombre.py"))
+except:
+    print("Error")
+
+# Funcion remove, elimina el fichero especificado en parametro
+print("remove - Eliminamos el archivo C://Users//afgsa//Desktop//test//test.py.", os.remove("C:/Users/afgsa/Desktop/test/test.py"))
 
